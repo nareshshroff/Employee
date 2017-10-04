@@ -1,0 +1,76 @@
+10/4/2017 2:18:26 PM	This log contains information about the import schema operation into project 'Employee' on computer 'HFCDT5363' by user 'nshroff'.
+10/4/2017 2:18:26 PM	Import of database schema has started.
+10/4/2017 2:18:34 PM	Gathering database options
+10/4/2017 2:18:34 PM	Gathering users
+10/4/2017 2:18:34 PM	Gathering roles
+10/4/2017 2:18:34 PM	Gathering application roles
+10/4/2017 2:18:34 PM	Gathering role memberships
+10/4/2017 2:18:34 PM	Gathering filegroups
+10/4/2017 2:18:34 PM	Gathering full-text catalogs
+10/4/2017 2:18:34 PM	Gathering assemblies
+10/4/2017 2:18:34 PM	Gathering certificates
+10/4/2017 2:18:34 PM	Gathering asymmetric keys
+10/4/2017 2:18:34 PM	Gathering symmetric keys
+10/4/2017 2:18:34 PM	Gathering encrypted symmetric keys
+10/4/2017 2:18:34 PM	Gathering schemas
+10/4/2017 2:18:34 PM	Gathering XML schema collections
+10/4/2017 2:18:34 PM	Gathering user-defined data types
+10/4/2017 2:18:34 PM	Gathering user-defined types
+10/4/2017 2:18:34 PM	Gathering table types
+10/4/2017 2:18:34 PM	Gathering unique keys for table types
+10/4/2017 2:18:34 PM	Gathering primary keys for table types
+10/4/2017 2:18:34 PM	Gathering check constraints for table types
+10/4/2017 2:18:34 PM	Gathering default constraints for table types
+10/4/2017 2:18:34 PM	Gathering partition functions
+10/4/2017 2:18:34 PM	Gathering partition schemes
+10/4/2017 2:18:34 PM	Gathering functions
+10/4/2017 2:18:34 PM	Gathering encrypted functions
+10/4/2017 2:18:34 PM	Gathering aggregates
+10/4/2017 2:18:34 PM	Gathering procedures
+10/4/2017 2:18:34 PM	Gathering encrypted procedures
+10/4/2017 2:18:34 PM	Gathering tables
+10/4/2017 2:18:34 PM	Gathering primary keys
+10/4/2017 2:18:35 PM	Gathering unique constraints
+10/4/2017 2:18:35 PM	Gathering foreign keys
+10/4/2017 2:18:35 PM	Gathering default constraints
+10/4/2017 2:18:35 PM	Gathering check constraints
+10/4/2017 2:18:35 PM	Gathering views
+10/4/2017 2:18:35 PM	Gathering encrypted views
+10/4/2017 2:18:35 PM	Gathering indexes
+10/4/2017 2:18:35 PM	Gathering statistics
+10/4/2017 2:18:35 PM	Gathering full-text index stoplists
+10/4/2017 2:18:35 PM	Gathering search property lists
+10/4/2017 2:18:35 PM	Gathering search properties
+10/4/2017 2:18:35 PM	Gathering full-text indexes
+10/4/2017 2:18:35 PM	Gathering column store indexes
+10/4/2017 2:18:35 PM	Gathering spatial indexes
+10/4/2017 2:18:35 PM	Gathering XML indexes
+10/4/2017 2:18:35 PM	Gathering Selective XML indexes
+10/4/2017 2:18:35 PM	Gathering encrypted triggers
+10/4/2017 2:18:35 PM	Gathering triggers
+10/4/2017 2:18:35 PM	Gathering encrypted and clr ddl triggers
+10/4/2017 2:18:35 PM	Gathering ddl triggers
+10/4/2017 2:18:35 PM	Gathering synonyms
+10/4/2017 2:18:35 PM	Gathering defaults
+10/4/2017 2:18:35 PM	Gathering data constraint uddt bindings
+10/4/2017 2:18:35 PM	Gathering rules
+10/4/2017 2:18:35 PM	Gathering data constraint uddt bindings
+10/4/2017 2:18:35 PM	Gathering message types
+10/4/2017 2:18:35 PM	Gathering queues
+10/4/2017 2:18:35 PM	Gathering contracts
+10/4/2017 2:18:35 PM	Gathering services
+10/4/2017 2:18:35 PM	Gathering event notifications
+10/4/2017 2:18:35 PM	Gathering remote service bindings
+10/4/2017 2:18:35 PM	Gathering broker priorities
+10/4/2017 2:18:35 PM	Gathering signatures
+10/4/2017 2:18:35 PM	Gathering data compression options
+10/4/2017 2:18:35 PM	Gathering sequence types
+10/4/2017 2:18:35 PM	Gathering extended properties
+10/4/2017 2:18:35 PM	Gathering credentials
+10/4/2017 2:18:35 PM	Gathering logins
+10/4/2017 2:18:35 PM	Gathering server audits
+10/4/2017 2:18:35 PM	Scanning project for duplicate elements
+10/4/2017 2:18:35 PM	Finished duplicate element processing
+10/4/2017 2:18:36 PM	Finished importing database.
+10/4/2017 2:18:36 PM	A summary of the import was saved to the following location: C:\nshroff\projects\ApiCore\Employee\Import Schema Logs\Employee_20171004061826.log
+10/4/2017 2:18:36 PM	Click Finish to continue...

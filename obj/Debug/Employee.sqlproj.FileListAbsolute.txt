@@ -1,0 +1,9 @@
+C:\nshroff\projects\ApiCore\Employee\bin\Debug\Employee.dacpac
+C:\nshroff\projects\ApiCore\Employee\bin\Debug\Employee.dll
+C:\nshroff\projects\ApiCore\Employee\bin\Debug\Employee.pdb
+C:\nshroff\projects\ApiCore\Employee\obj\Debug\Model.xml
+C:\nshroff\projects\ApiCore\Employee\obj\Debug\refactor.xml
+C:\nshroff\projects\ApiCore\Employee\obj\Debug\postdeploy.sql
+C:\nshroff\projects\ApiCore\Employee\obj\Debug\predeploy.sql
+C:\nshroff\projects\ApiCore\Employee\obj\Debug\Employee.dll
+C:\nshroff\projects\ApiCore\Employee\obj\Debug\Employee.pdb
